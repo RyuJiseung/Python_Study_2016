@@ -13,11 +13,11 @@
 
 #### - [chap11. 차원축소](https://github.com/RyuJiseung/Python_Study_2016/blob/master/DimensionReduction/11_Dimension%20Reduction.ipynb)
 
-###### - [LDA](https://github.com/RyuJiseung/Python_Study_2016/blob/master/DimensionReduction/LDA-python.ipynb)
+###### [LDA](https://github.com/RyuJiseung/Python_Study_2016/blob/master/DimensionReduction/LDA-python.ipynb)
 
-###### - [PCA](https://github.com/RyuJiseung/Python_Study_2016/blob/master/DimensionReduction/PCA-python.ipynb)
+###### [PCA](https://github.com/RyuJiseung/Python_Study_2016/blob/master/DimensionReduction/PCA-python.ipynb)
 
-###### - [Ridge/Lasso](https://github.com/RyuJiseung/Python_Study_2016/blob/master/DimensionReduction/Ridge_Lasso.ipynb)
+###### [Ridge/Lasso](https://github.com/RyuJiseung/Python_Study_2016/blob/master/DimensionReduction/Ridge_Lasso.ipynb)
 
 
 ## 2. 파이썬 라이브러리를 활용한 데이터 분석 
